@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Seminaria';
-  src: url('@/assets/fonts/seminaria.ttf') format('truetype');
+  src: url('../fonts/seminaria.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
