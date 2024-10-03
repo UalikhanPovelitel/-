@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Seminaria';
+  src: url('@/assets/fonts/seminaria.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Seminaria', sans-serif;
+}
